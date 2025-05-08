@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]
+# 👋 Hey there! I'm Ashish Humane ,
 
 ## 🚀 Full Stack Developer | Backend Specialist | Tech Explorer
 
@@ -9,10 +9,9 @@ I craft end-to-end web applications with a strong focus on backend performance, 
 ### 🧠 What I Know
 
 - **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, Redux, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Express.js, FastAPI
-- **Database:** MongoDB, MySQL, Mongoose
-- **Tools & DevOps:** Git, GitHub, Postman, VS Code, NPM, Docker
+- **Frontend:** React, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js, 
+- **Database:** MongoDB, Mongoose
 
 ---
 
@@ -36,8 +35,7 @@ I craft end-to-end web applications with a strong focus on backend performance, 
 ### 💬 Let's Connect
 
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 📝 Blog: [dev.to/yourhandle](https://dev.to/yourhandle)  
+- 📧 Email: ashishhumane2003@gmail.com(mailto:your.email@example.com)    
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
