@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey there! I'm [Your Name]
 
-<!--
-**ashishhumane/ashishhumane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer | Backend Specialist | Tech Explorer
 
-Here are some ideas to get you started:
+I craft end-to-end web applications with a strong focus on backend performance, clean API design, and smooth user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I Know
+
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Redux, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js, FastAPI
+- **Database:** MongoDB, MySQL, Mongoose
+- **Tools & DevOps:** Git, GitHub, Postman, VS Code, NPM, Docker
+
+---
+
+### 🔍 Currently Working On
+
+- ⚙️ Improving API scalability and microservice patterns  
+- 🧪 Experimenting with FastAPI for async Python backends  
+- 🗃️ Structuring complex databases with indexing & query optimization  
+- 🧩 Designing reusable component libraries in React
+
+---
+
+### 📈 GitHub Highlights
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=prs&count_private=true&theme=default)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+### 💬 Let's Connect
+
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 📝 Blog: [dev.to/yourhandle](https://dev.to/yourhandle)  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+_Thanks for stopping by! Let's build something amazing together 🚀_
+
