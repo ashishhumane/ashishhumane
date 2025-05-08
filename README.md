@@ -26,8 +26,8 @@ I craft end-to-end web applications with a strong focus on backend performance, 
 
 ### 📈 GitHub Highlights
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=prs&count_private=true&theme=default)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish Humane&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish humane&show_icons=true&hide=prs&count_private=true&theme=default)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
