@@ -36,7 +36,7 @@ I craft end-to-end web applications with a strong focus on backend performance, 
 
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
 - 📧 Email: ashishhumane2003@gmail.com   
-- 🐦 LinkedIn: [[@yourhandle]](https://www.linkedin.com/in/ashish-humane-bab99b249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvCevFiypQXqL%2BnPal0uEtA%3D%3D)
+- 🐦 LinkedIn: @https://www.linkedin.com/in/ashish-humane-bab99b249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvCevFiypQXqL%2BnPal0uEtA%3D%3D
 
 ---
 
