@@ -1,44 +1,24 @@
-# 👋 Hey there! I'm Ashish Humane ,
+<h1 align="center">Hi 👋, I'm Ashish Humane</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## 🚀 Full Stack Developer | Backend Specialist | Tech Explorer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishhumane&label=Profile%20views&color=0e75b6&style=flat" alt="ashishhumane" /> </p>
 
-I craft end-to-end web applications with a strong focus on backend performance, clean API design, and smooth user experiences.
+- 🌱 I’m currently learning **GenAI**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/ashishhumane](https://github.com/ashishhumane)
 
-### 🧠 What I Know
+- 📫 How to reach me **ashishhumane2003@gmail.com**
 
-- **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Express.js, 
-- **Database:** MongoDB, Mongoose
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ashish humane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish humane" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### 🔍 Currently Working On
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishhumane&show_icons=true&locale=en&layout=compact" alt="ashishhumane" /></p>
 
-- ⚙️ Improving API scalability and microservice patterns  
-- 🧪 Experimenting with FastAPI for async Python backends  
-- 🗃️ Structuring complex databases with indexing & query optimization  
-- 🧩 Designing reusable component libraries in React
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishhumane&show_icons=true&locale=en" alt="ashishhumane" /></p>
 
----
-
-### 📈 GitHub Highlights
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashishhumane&theme=default)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashishhumane&show_icons=true&hide=prs&count_private=true&theme=default)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
-
-### 💬 Let's Connect
-
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-- 📧 Email: ashishhumane2003@gmail.com   
-- 🐦 LinkedIn:www.linkedin.com/in/ashish-humane-bab99b249/
-
----
-
-_Thanks for stopping by! Let's build something amazing together 🚀_
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishhumane&" alt="ashishhumane" /></p>
